@@ -1,0 +1,24 @@
+body{ background-color: lightblue;}
+.center {
+  text-align: center;
+  border: 3px solid white;
+    font-family: 'Open Sans Condensed', sans-serif;
+    color: white;
+}
+.foodies{ 
+    text-align: center;
+    color: white;
+    font-size: large;
+    
+}
+
+img{  
+    max-width:100%;
+    height:auto;    
+}
+
+.foods{
+    text-align: center;
+   font-size: large;
+    color: white;
+}
